@@ -6,7 +6,7 @@ package PRUEBAS;
 
 /**
  *
- * @author gamae
+ * @author Jesus Gammael Soto Escalante 248336
  */
 public class BDA_verano {
 
